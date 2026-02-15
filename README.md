@@ -88,14 +88,17 @@ O jogador tem de encontrar a carta jogada.
 ---
 
 ## 📅 Estado do Projeto
-Projeto académico arquivado para referência e controlo de versões.
+Este projeto foi desenvolvido originalmente há cerca de 2 anos.
 
-Pode conter:
-- Versões experimentais
-- Componentes em desenvolvimento
-- Bugs conhecidos
+As versões finais completas do projeto foram perdidas, tendo sido recuperada apenas uma versão intermédia funcional.
 
----
+Por esse motivo, o repositório pode conter:
+- Versões não finais de alguns módulos
+- Componentes experimentais
+- Bugs conhecidos ou comportamentos incompletos
+
+O repositório é mantido para fins académicos, históricos e de referência.
+
 
 ## 👤 Autor
 Cas9005
